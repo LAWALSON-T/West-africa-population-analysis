@@ -1,3 +1,3 @@
-# Freecodecamp certification projects
+#  Population-analysis
 
- West-africa-population-analysis
+Taken keen interest on West African countries
